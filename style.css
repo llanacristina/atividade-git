@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#principal{
+        margin: 50px;
+        padding: 50px;
+        background-color:darkred;
+}
+header img{
+    width: 20%;
+    margin-left: 40%;
+}
+h1{
+    color: darkorange;
+}
+p{
+    color: darkorange;
+}
+div ol{
+    margin: 5%;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    font-family: Georgia, Times, serif;
+}
+li{
+    color: darkorange;
+    font-family: Georgia, Times, serif
+}
